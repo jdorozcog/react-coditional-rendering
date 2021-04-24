@@ -1,0 +1,30 @@
+.datos-container{
+        width: 95%;
+        margin: 0 auto;
+        min-height: 27px;
+        border:3px solid red;
+        margin-top: 10px;
+        margin-left: 10px;
+        text-align: left;
+
+}
+.failed-grade{
+        font-weight: bold;
+        color: red;
+}
+
+.male-img{
+        margin: 0;
+        display: inline-block;
+        height: 15px;
+        float: none;
+        background-size:cover;
+
+}
+.female-img{
+        margin: 0;
+        display: inline-block;
+        height: 15px;
+        float: none;
+        background-size:cover;
+}

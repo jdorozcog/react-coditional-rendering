@@ -1,0 +1,6 @@
+.general-container {
+    width: 25%;
+    margin: 0 auto;
+    min-height: auto;
+    border: 3px solid orange;
+}

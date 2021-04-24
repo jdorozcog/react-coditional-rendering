@@ -1,0 +1,14 @@
+.general2-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: auto;
+    border:3px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.other{
+    margin-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
